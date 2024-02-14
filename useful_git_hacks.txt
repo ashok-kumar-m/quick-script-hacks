@@ -1,0 +1,3 @@
+Ultimate Guide on How to Delete Commit History in Github:
+https://medium.com/@mgm06bm/ultimate-guide-on-how-to-delete-commit-history-in-github-35cc11d74571#:~:text=Once%20you've%20identified%20the,rebase%20command%20to%20remove%20them.&text=This%20will%20open%20an%20interactive,that%20you%20want%20to%20remove.
+
